@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://wamaya.se/wp-content/uploads/2024/02/wamayalogo.png"
+          src="https://s3-wamaya.s3.eu-north-1.amazonaws.com/logo.png"
           alt="edstock-logo"
           width={150}
           height={80}
